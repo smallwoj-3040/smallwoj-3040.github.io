@@ -1,2 +1,9 @@
+# Joshua Smallwood
 
-# Hello world
+## Education
+
+## Relevant Experience
+
+## Technical skills
+
+## Projects
