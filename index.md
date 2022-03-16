@@ -19,7 +19,7 @@ University of Manitoba, GPA: 4.03/4.5
 
 ## INDUSTRY EXPERIENCE
 **Jr. Data Engineer**, FarmLink Marketing Solutions
-<span style="float: right;">January 2020 - May 2021,September 2021 - Present</span>  
+<span style="float: right;">Jan 2020 - May 2021,Sep 2021 - Present</span>  
 *8-month co-op & ongoing part time*  
 <small>FarmLink is a grain marketing company that provides consulting, analysis, and sales advice for farmers in western Canada.</small>
 - Contributes to the development of GrainFox, a web application that provides various publications and other analytical tools to give farmers insights and recommendations on the current market trends.  
