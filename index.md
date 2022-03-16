@@ -34,3 +34,14 @@ Notable contributions include:
 - Followed agile methodologies of development to ensure the best product was delivered.
 
 ## PROJECTS
+**Crazy Tennis (Personal Project)**	<span style="float: right;">September 2019 - January 2021</span>  
+Worked with another developer to create an indie video game. Crazy Tennis starts off as a normal sports game, but soon presents itself to be a top-down shoot ‘em up game as you fight your way through a flurry of tennis balls to defeat the enemies. Written in Unity using C#.
+
+**Join Sound Johnson (Personal Project)**	<span style="float: right;">December 2020</span>  
+Created a Discord bot that allows users to set a YouTube video that plays when they join a voice channel. Originally written in Python and MySQL, then rewritten in Rust and MySQL.
+
+**Personal Budget Balancing System (Software Engineering 1)**	<span style="float: right;">Summer 2020</span>  
+Worked with four classmates to create a mobile application to input transactions, cards, and different budget categories; show different visualizations and monthly breakdown of information; and provide insight into the user’s spending habits. Written in Android Studio using Java.
+
+**Restaurant Ordering Interface (Human-Computer Interaction)**	<span style="float: right;">Fall 2019</span>  
+Worked with three classmates to create a simple, yet effective interface for servers to take orders. Written in HTML, CSS, and Javascript, with heavy emphasis on the JQuery framework.
