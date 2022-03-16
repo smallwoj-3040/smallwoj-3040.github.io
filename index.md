@@ -7,8 +7,9 @@
 University of Manitoba, GPA: 4.03/4.5
 
 ## TECHNICAL SKILLS
+
 | Languages  | Software/Frameworks | Operating Systems |
-|------------|---------------------|-------------------|
+|:-----------|:--------------------|:------------------|
 | Python     | Vue.js & Vuetify    | Windows           |
 | JavaScript | BrowserStack        | Linux             |
 | C/C++      | Unity               |                   |
