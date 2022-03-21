@@ -1,7 +1,7 @@
 # Hosting your Resume on GitHub Pages
 
 
-**Purpose**: This document serves as a guide to hosting a resume online using Jekyll, Markdown, and GitHub Pages. This guide will demonstrate practices described in Andrew Etterès book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+**Purpose**: This document serves as a guide to hosting a resume online using Jekyll, Markdown, and GitHub Pages. This guide will demonstrate practices described in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 
 ## Prerequisites
@@ -56,10 +56,31 @@ The steps highlighted in this section will guide you through the process of host
 
 
 ## Frequently Asked Questions
+### Why use Markdown or other lightweight markup options?
+Andrew Etter, in his book, notes some key highlights of using lightweight markup:
+- Stored in a pure text format.
+- Can use virtually any text editor to write.
+- Plays nice with version control options. (Like GitHub!)
+- No need for any expensive software to edit and view documents.
 
+### How do I make text Right Justified?
+This can depend on what theme you choose, but one method that works for most themes is to surround the text with html as follows:
+
+```html
+<span style="float: right;">Text goes here</span>
+```
+
+Using this arrangement, you can have text right justified on the same line as other text that is left justified.
+
+Note that this is not respected in GitHub's rendering of the Markdown file, but it is respected in some themes, such as the Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
 
 ## More Resources
-
+### Markdown
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+### Technical Writing
+- Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+### Resume Writing
+- [Job Bank Canada - How to write a good resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
 
 ## Authors and Acknowledgments
 Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
