@@ -55,6 +55,13 @@ The steps highlighted in this section will guide you through the process of host
     - After selecting your theme, you can view the built website from the link above the `Source` heading.
     ![image](https://user-images.githubusercontent.com/31932412/159219637-442b87e6-f22b-439d-bb39-40492e4749b4.png)
 
+## Authors and Acknowledgments
+Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
+
+Editors:
+- Azizul Hakim
+- Harshal Bhalerao
+- Deepta Mandal
 
 ## Frequently Asked Questions
 ### Why use Markdown or other lightweight markup options?
@@ -82,11 +89,3 @@ Note that this is not respected in GitHub's rendering of the Markdown file, but 
 - Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 ### Resume Writing
 - [Job Bank Canada - How to write a good resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
-
-## Authors and Acknowledgments
-Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
-
-Editors:
-- Azizul Hakim
-- Harshal Bhalerao
-- Deepta Mandal
