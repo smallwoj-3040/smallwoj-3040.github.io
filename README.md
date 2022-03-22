@@ -1,4 +1,4 @@
-# Hosting your Resume on GitHub Pages
+# Hosting Your Resume on GitHub Pages
 
 
 **Purpose**: This document serves as a guide to hosting a resume online using Jekyll, Markdown, and GitHub Pages. This guide will demonstrate practices described in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
@@ -53,7 +53,8 @@ The steps highlighted in this section will guide you through the process of host
 5. View the finished page.
     
     - After selecting your theme, you can view the built website from the link above the `Source` heading.
-    ![image](https://user-images.githubusercontent.com/31932412/159219637-442b87e6-f22b-439d-bb39-40492e4749b4.png)
+    ![resume](https://user-images.githubusercontent.com/31932412/159591141-7ea71bc1-34f4-46ac-b696-a23e97018b31.gif)
+
 
 ## Authors and Acknowledgments
 Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
