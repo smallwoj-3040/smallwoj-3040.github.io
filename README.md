@@ -23,7 +23,8 @@ The steps highlighted in this section will guide you through the process of host
        
     b. To best use GitHub Pages, make sure the repository name is `<Your Username>.github.io`
       - For example, someone with the username `biggie-cheese24` would name their repository `biggie-cheese24.github.io`.
-       ![image](https://user-images.githubusercontent.com/31932412/159108426-09c36d88-7f4b-4dfc-8baa-8492018943f4.png)
+      
+      ![image](https://user-images.githubusercontent.com/31932412/159108426-09c36d88-7f4b-4dfc-8baa-8492018943f4.png)
 
 
 3. Upload your resume in Markdown.
@@ -86,3 +87,6 @@ Note that this is not respected in GitHub's rendering of the Markdown file, but 
 Leap Day theme by [Matt Graham](https://github.com/pages-themes/leap-day).
 
 Editors:
+- Azizul Hakim
+- Harshal Bhalerao
+- Deepta Mandal
