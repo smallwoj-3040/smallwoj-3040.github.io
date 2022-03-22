@@ -42,11 +42,11 @@ The steps highlighted in this section will guide you through the process of host
     
     b. Click the `Pages` tab along the side.
     
-    c. Under the `Theme Chooser` heading, click the `Change Theme` button.
+    c. Click the `Change Theme` button under the `Theme Chooser` heading.
     
-    d. Browse the available themes and select the one that fits best.
+    d. Select the theme you like best.
     
-    e. Once a suitable theme is chosen, click the `Select theme` button to confirm your selection.
+    e. Click the `Select theme` button to confirm your selection.
 
 ![3040-theme](https://user-images.githubusercontent.com/31932412/159219508-f415de07-7e36-4b73-a23f-8d131f32bde2.gif)
 
